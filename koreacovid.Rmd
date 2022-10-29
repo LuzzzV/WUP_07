@@ -54,7 +54,7 @@ basicCC + geom_bar(stat="identity", position = "dodge")
 ```
 
   
-
+The box plot suggests that there was a higher death percentage in men than woman by about 20 percent.
 
 
 
