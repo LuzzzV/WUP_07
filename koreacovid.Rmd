@@ -80,6 +80,9 @@ chisqtestGC(table1)
 fisher.test(table1)
 ```
 
+Based on the inferential results the p-value is .0009 which is less than 0.05 meaning we reject the null hypothesis of dying is not independent of sex.  
+
+
 
 ## Conclusions
 
