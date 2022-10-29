@@ -80,9 +80,12 @@ chisqtestGC(table1)
 fisher.test(table1)
 ```
 
-Based on the inferential results the p-value is .0009 which is less than 0.05 meaning we reject the null hypothesis of dying is not independent of sex.  
+Based on the inferential results the p-value is .0009 which is less than 0.05 meaning we reject the null hypothesis of dying is not independent of sex. 
+According to Fisher's data the odds ratio is 2.3 suggesting men are 2.3 times more likely to die of Covid compared to women.
 
 
 
 ## Conclusions
+
+In the boxplot results suggest there are about 20 percent more deaths in men than there is in woman, while the numerical results suggest that the deaths are twice as much in men compared to woman. The odds ratio in the Fisher's data is 2.3 suggesting men are 2.3 times more likely to die of Covid in Korea compared to women. Since the p-value in the inferential results is .0009 which is smaller than .005 we reject the null hypothesis because evidence suggests that dying is independent of sex.
 
