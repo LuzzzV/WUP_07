@@ -73,7 +73,11 @@ Based on the numerical results 36% of deaths are women and 64% are men, suggesti
 
 ## Inferential results 
 
-
+```{r}
+chisq.test(table1)
+chisqtestGC(table1)
+fisher.test(table1)
+```
 
 
 ## Conclusions
